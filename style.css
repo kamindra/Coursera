@@ -4,4 +4,8 @@ p.web{
 	 font-family:Times New Roman;
 	 align-content:center;
 }
-
+#pseudo{
+	background-color:paleturquoise;
+	border: red 2px solid;
+	color: red;
+}
